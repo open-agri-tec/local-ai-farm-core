@@ -1,0 +1,10 @@
+{
+  "name": "vite",
+  "version": "0.0.0-local",
+  "type": "module",
+  "bin": {
+    "vite": "./bin/vite.js"
+  },
+  "main": "./index.js",
+  "types": "./index.d.ts"
+}
